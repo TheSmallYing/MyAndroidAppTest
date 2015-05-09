@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, BMI!</string>
+    <string name="app_name">BMI计算器</string>
+    <string name="high">身高(cm)</string>
+    <string name="weight">体重(kg)</string>
+    <string name="man">男</string>
+    <string name="woman">女</string>
+    <string name="bmi">计算BMI值</string>
+    <string name="fanhui">返回</string>
+    <string name="tishi">备注</string>
+
+</resources>

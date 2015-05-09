@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/weichengying/AndroidStudioProjects/BMI/app/src/main/res/values/color.xml -->
+    <eat-comment/>
+    <color name="white">#FFFFFF</color>
+    <color name="yellow">#FFFF00</color>
+    <!-- From: file:/home/weichengying/AndroidStudioProjects/BMI/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">BMI计算器</string>
+    <string name="bmi">计算BMI值</string>
+    <string name="fanhui">返回</string>
+    <string name="hello">Hello World, BMI!</string>
+    <string name="high">身高(cm)</string>
+    <string name="man">男</string>
+    <string name="tishi">备注</string>
+    <string name="weight">体重(kg)</string>
+    <string name="woman">女</string>
+    <!-- From: file:/home/weichengying/AndroidStudioProjects/BMI/app/src/main/res/values/style.xml -->
+    <eat-comment/>
+    <style name="CustomText" parent="@android:style/TextAppearance">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#008</item>
+    </style>
+</resources>
